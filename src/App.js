@@ -1,5 +1,5 @@
 import "./App.css";
-import { Input } from "./components/Input";
+import Input from "./components/Input";
 import React from "react";
 
 function App() {
