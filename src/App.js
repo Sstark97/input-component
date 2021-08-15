@@ -5,7 +5,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
-      <Input text="fsdf" startIcon="battery_20" helperText="911" row={3} />
+      <Input endIcon="battery_20" />
     </div>
   );
 }
